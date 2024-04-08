@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hello, I'm Hassan Hatem 👋
 
-<!--
-**HassanHatem1/HassanHatem1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 How to reach me:
 
-Here are some ideas to get you started:
+You can reach me at my email: hassan.hatem1282@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can also find me on:
+
+[![LinkedIn][linkedin-shield]][linkedin-url]]
+[![Facebook][facebook-shield]][facebook-url]]
+
+## 🔭 I’m currently working on Real-time collaborative text-editor
+
+## 🌱 I’m currently learning SpringBoot,React
+
+## 👯 I’m looking to collaborate on open source projects, particularly those using Java or JavaScript.
+
+## 🤔 I’m looking for help with kubernetes,docker
+
+## 📈 My GitHub Stats
+
+![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+<!-- Links to your social media accounts -->
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: (http://www.linkedin.com/in/hassan-hatem-a06799274)
+[facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&colorB=555
+[facebook-url]: https://www.facebook.com/hassan.hatem.374/
