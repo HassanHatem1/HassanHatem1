@@ -19,7 +19,6 @@ You can also find me on:
 
 ## 📈 My GitHub Stats
 
-![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 <!-- Links to your social media accounts -->
 
