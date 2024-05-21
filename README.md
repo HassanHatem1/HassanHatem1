@@ -23,8 +23,6 @@ You can also find me on:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanHatem1)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HassanHatem1)](https://git.io/streak-stats)
-
 <!-- Links to your social media accounts -->
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
