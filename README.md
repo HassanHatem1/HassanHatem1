@@ -15,7 +15,7 @@ You can also find me on:
 
 ## 👯 I’m looking to collaborate on open source projects, particularly those using Java or JavaScript.
 
-## 🤔 I’m looking for help with kubernetes,Docker
+## 🤔 I’m looking for help with Kubernetes
 
 
 <!-- Links to your social media accounts -->
