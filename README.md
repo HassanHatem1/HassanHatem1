@@ -9,13 +9,6 @@ You can also find me on:
 [![LinkedIn][linkedin-shield]][linkedin-url]]
 [![Facebook][facebook-shield]][facebook-url]]
 
-## 🔭 I’m currently working on Real-time collaborative text-editor,Deploying applications
-
-## 🌱 I’m currently learning SpringBoot,React,Docker,Jenkins
-
-## 👯 I’m looking to collaborate on open source projects, particularly those using Java or JavaScript.
-
-## 🤔 I’m looking for help with Kubernetes
 
 ## GitHub Stats
 
